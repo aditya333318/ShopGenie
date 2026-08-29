@@ -1,0 +1,6 @@
+{
+  "name": "Shopping Agent with Google AI Studio",
+  "description": "An intelligent autonomous shopping assistant powered by Gemini with product curation, side-by-side comparison, budget optimization, review sentiment analysis, and multimodal visual product search.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
